@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Frag</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="titlea">
+        <item>file</item>
+        <item>edit</item>
+        <item>view</item>
+        <item>navigate</item>
+    </string-array>
+    <string-array name="dis">
+        <item>A collection of data or information that has a name, called the filename. Almost all information stored in a computer must be in a file. There are many different types of files: data files, text files , program files, directory files, and so on. For example, program files store programs, whereas text files store text.</item>
+        <item>Editing is the process of selecting and preparing written, visual, audible, and film media used to convey information. The editing process can involve correction, condensation, organization, and many other modifications performed with an intention of producing a correct, consistent, accurate and complete work</item>
+        <item>View toolbars contain actions that apply only to the particular view in which they appear.  The view toolbar also contains a context menu that contains other actions for that view. This menu is opened by clicking on the downwards pointing triangle. If there is enough space, view toolbars are in the view tab area. Otherwise they appear in the view.</item>
+        <item>to move on, over, or through (water, air, or land) in a ship or aircraft: to navigate a river. 2. to direct or manage (a ship, aircraft, or guided missile) on its course. to ascertain or plot and control the course or position of (a ship, aircraft, etc.).</item>
+    </string-array>
+
+</resources>
